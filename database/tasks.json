@@ -5,7 +5,7 @@
     "title": "Build FastAPI Backend",
     "details": "Create the API endpoints for user authentication and task management.",
     "due_date": "2025-09-30",
-    "status": "In Progress"
+    "status": "To Do"
   },
   {
     "task_id": "102",
@@ -13,7 +13,7 @@
     "title": "Design Database Schema",
     "details": "Define the structure for users and tasks JSON files.",
     "due_date": "2025-09-25",
-    "status": "Completed"
+    "status": "In Progress"
   },
   {
     "task_id": "103",
@@ -21,7 +21,7 @@
     "title": "Setup Vue.js Frontend",
     "details": "Initialize the Vue.js project with routing and state management.",
     "due_date": "2025-10-01",
-    "status": "To Do"
+    "status": "Completed"
   },
   {
     "task_id": "104",
@@ -882,6 +882,7 @@
   {
     "task_id": "500",
     "userId": "A124243",
+    "title": "Production Deployment",
     "details": "This task is missing a title field.",
     "due_date": "2025-10-15",
     "status": "To Do"
@@ -907,6 +908,14 @@
     "title": "Task with Invalid Date Format 2",
     "details": "This task has another invalid due date format.",
     "due_date": "9/25/2025",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "504",
+    "userId": "A124243",
+    "title": "test xy",
+    "details": "test x",
+    "due_date": "2025-09-18",
     "status": "In Progress"
   }
 ]

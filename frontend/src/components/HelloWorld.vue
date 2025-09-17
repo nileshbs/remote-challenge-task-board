@@ -16,7 +16,7 @@
       <div v-if="error" class="error">
         <h3>Error:</h3>
         <p>{{ error }}</p>
-        <p><small>Make sure the backend is running on http://localhost:8000</small></p>
+        <p><small>Make sure the backend is running on http://10.0.0.8:8000</small></p>
       </div>
     </div>
 
@@ -58,7 +58,7 @@ const fetchFromBackend = async () => {
   backendMessage.value = null
   
   try {
-    const response = await axios.get('http://localhost:8000/api/hello')
+    const response = await axios.get('http://10.0.0.8:8000/api/hello')
     backendMessage.value = response.data
   } catch (err) {
     error.value = err.message

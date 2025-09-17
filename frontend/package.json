@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "vue": "^3.3.8",
-    "axios": "^1.6.2"
+    "vue-router": "^4.2.5",
+    "axios": "^1.6.2",
+    "vue-draggable-plus": "^0.3.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.0",
