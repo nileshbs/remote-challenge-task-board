@@ -1,0 +1,96 @@
+[
+  {
+    "userId": "A124242",
+    "username": "johndoe",
+    "password": "password123",
+    "firstName": "John",
+    "lastName": "Doe",
+    "access_token": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6"
+  },
+  {
+    "userId": "A124243",
+    "username": "janesmith",
+    "password": "securepass456",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "access_token": "b2c3d4e5-f6g7-8h9i-0j1k-l2m3n4o5p6q7"
+  },
+  {
+    "userId": "A124244",
+    "username": "mikejohnson",
+    "password": "mypassword789",
+    "firstName": "Mike",
+    "lastName": "Johnson",
+    "access_token": "c3d4e5f6-g7h8-9i0j-1k2l-m3n4o5p6q7r8"
+  },
+  {
+    "userId": "A124245",
+    "username": "sarahwilson",
+    "password": "pass123word",
+    "firstName": "Sarah",
+    "lastName": "Wilson",
+    "access_token": "d4e5f6g7-h8i9-0j1k-2l3m-n4o5p6q7r8s9"
+  },
+  {
+    "userId": "A124246",
+    "username": "davidbrown",
+    "password": "brownpass321",
+    "firstName": "David",
+    "lastName": "Brown",
+    "access_token": "e5f6g7h8-i9j0-1k2l-3m4n-o5p6q7r8s9t0"
+  },
+  {
+    "userId": "A124247",
+    "username": "emilywhite",
+    "password": "whitepass654",
+    "firstName": "Emily",
+    "lastName": "White",
+    "access_token": "f6g7h8i9-j0k1-2l3m-4n5o-p6q7r8s9t0u1"
+  },
+  {
+    "userId": "A124248",
+    "username": "alexgreen",
+    "password": "greenpass987",
+    "firstName": "Alex",
+    "lastName": "Green",
+    "access_token": "g7h8i9j0-k1l2-3m4n-5o6p-q7r8s9t0u1v2"
+  },
+  {
+    "userId": "A124249",
+    "username": "lisablack",
+    "password": "blackpass111",
+    "firstName": "Lisa",
+    "lastName": "Black",
+    "access_token": "h8i9j0k1-l2m3-4n5o-6p7q-r8s9t0u1v2w3"
+  },
+  {
+    "userId": "A124250",
+    "username": "tomgray",
+    "password": "graypass222",
+    "firstName": "Tom",
+    "lastName": "Gray",
+    "access_token": "i9j0k1l2-m3n4-5o6p-7q8r-s9t0u1v2w3x4"
+  },
+  {
+    "userId": "A124251",
+    "username": "amyblue",
+    "password": "bluepass333",
+    "firstName": "Amy",
+    "lastName": "Blue",
+    "access_token": "j0k1l2m3-n4o5-6p7q-8r9s-t0u1v2w3x4y5"
+  },
+  {
+    "userId": "A124252",
+    "username": "brokenuser1",
+    "firstName": "Broken",
+    "lastName": "User1",
+    "access_token": "k1l2m3n4-o5p6-7q8r-9s0t-u1v2w3x4y5z6"
+  },
+  {
+    "userId": "A124253",
+    "username": "brokenuser2",
+    "password": "validpass444",
+    "lastName": "User2",
+    "access_token": "l2m3n4o5-p6q7-8r9s-0t1u-v2w3x4y5z6a7"
+  }
+]

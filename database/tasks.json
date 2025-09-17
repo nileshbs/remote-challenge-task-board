@@ -1,0 +1,912 @@
+[
+  {
+    "task_id": "101",
+    "userId": "A124243",
+    "title": "Build FastAPI Backend",
+    "details": "Create the API endpoints for user authentication and task management.",
+    "due_date": "2025-09-30",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "102",
+    "userId": "A124243",
+    "title": "Design Database Schema",
+    "details": "Define the structure for users and tasks JSON files.",
+    "due_date": "2025-09-25",
+    "status": "Completed"
+  },
+  {
+    "task_id": "103",
+    "userId": "A124243",
+    "title": "Setup Vue.js Frontend",
+    "details": "Initialize the Vue.js project with routing and state management.",
+    "due_date": "2025-10-01",
+    "status": "To Do"
+  },
+  {
+    "task_id": "104",
+    "userId": "A124243",
+    "title": "Implement Authentication",
+    "details": "Add login functionality and token management.",
+    "due_date": "2025-09-28",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "105",
+    "userId": "A124243",
+    "title": "Create Task Board UI",
+    "details": "Design and implement the drag-and-drop task board interface.",
+    "due_date": "2025-10-05",
+    "status": "To Do"
+  },
+  {
+    "task_id": "106",
+    "userId": "A124244",
+    "title": "Write Unit Tests",
+    "details": "Create comprehensive test suite for backend API endpoints.",
+    "due_date": "2025-10-10",
+    "status": "To Do"
+  },
+  {
+    "task_id": "107",
+    "userId": "A124244",
+    "title": "Add Search Functionality",
+    "details": "Implement real-time search filtering for tasks.",
+    "due_date": "2025-10-08",
+    "status": "To Do"
+  },
+  {
+    "task_id": "108",
+    "userId": "A124244",
+    "title": "Setup CORS Configuration",
+    "details": "Configure cross-origin resource sharing for API.",
+    "due_date": "2025-09-26",
+    "status": "Completed"
+  },
+  {
+    "task_id": "109",
+    "userId": "A124244",
+    "title": "Implement Drag and Drop",
+    "details": "Add drag-and-drop functionality for moving tasks between columns.",
+    "due_date": "2025-10-03",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "110",
+    "userId": "A124244",
+    "title": "Create Error Handling",
+    "details": "Implement proper error handling and validation.",
+    "due_date": "2025-10-07",
+    "status": "To Do"
+  },
+  {
+    "task_id": "111",
+    "userId": "A124244",
+    "title": "Deploy Application",
+    "details": "Deploy the application to a hosting platform.",
+    "due_date": "2025-10-15",
+    "status": "To Do"
+  },
+  {
+    "task_id": "112",
+    "userId": "A124244",
+    "title": "Write Documentation",
+    "details": "Create comprehensive documentation for the project.",
+    "due_date": "2025-10-12",
+    "status": "To Do"
+  },
+  {
+    "task_id": "113",
+    "userId": "A124244",
+    "title": "Performance Optimization",
+    "details": "Optimize frontend and backend performance.",
+    "due_date": "2025-10-20",
+    "status": "To Do"
+  },
+  {
+    "task_id": "114",
+    "userId": "A124244",
+    "title": "Security Audit",
+    "details": "Conduct security review and implement best practices.",
+    "due_date": "2025-10-18",
+    "status": "To Do"
+  },
+  {
+    "task_id": "115",
+    "userId": "A124244",
+    "title": "User Feedback Integration",
+    "details": "Collect and integrate user feedback for improvements.",
+    "due_date": "2025-10-25",
+    "status": "To Do"
+  },
+  {
+    "task_id": "116",
+    "userId": "A124245",
+    "title": "Setup Development Environment",
+    "details": "Configure local development environment with all dependencies.",
+    "due_date": "2025-09-24",
+    "status": "Completed"
+  },
+  {
+    "task_id": "117",
+    "userId": "A124245",
+    "title": "Code Review Process",
+    "details": "Establish code review guidelines and process.",
+    "due_date": "2025-09-29",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "118",
+    "userId": "A124245",
+    "title": "API Documentation",
+    "details": "Generate comprehensive API documentation using Swagger.",
+    "due_date": "2025-10-02",
+    "status": "To Do"
+  },
+  {
+    "task_id": "119",
+    "userId": "A124246",
+    "title": "Database Backup Strategy",
+    "details": "Implement backup strategy for JSON data files.",
+    "due_date": "2025-10-04",
+    "status": "To Do"
+  },
+  {
+    "task_id": "120",
+    "userId": "A124246",
+    "title": "Mobile Responsiveness",
+    "details": "Ensure application works well on mobile devices.",
+    "due_date": "2025-10-06",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "121",
+    "userId": "A124246",
+    "title": "Data Validation",
+    "details": "Add comprehensive data validation for all inputs.",
+    "due_date": "2025-10-01",
+    "status": "To Do"
+  },
+  {
+    "task_id": "122",
+    "userId": "A124246",
+    "title": "Logging Implementation",
+    "details": "Add logging for debugging and monitoring purposes.",
+    "due_date": "2025-09-27",
+    "status": "Completed"
+  },
+  {
+    "task_id": "123",
+    "userId": "A124246",
+    "title": "User Interface Polish",
+    "details": "Refine UI/UX design and add animations.",
+    "due_date": "2025-10-09",
+    "status": "To Do"
+  },
+  {
+    "task_id": "124",
+    "userId": "A124247",
+    "title": "Integration Testing",
+    "details": "Create end-to-end integration tests.",
+    "due_date": "2025-10-11",
+    "status": "To Do"
+  },
+  {
+    "task_id": "125",
+    "userId": "A124247",
+    "title": "Load Testing",
+    "details": "Perform load testing to ensure scalability.",
+    "due_date": "2025-10-13",
+    "status": "To Do"
+  },
+  {
+    "task_id": "126",
+    "userId": "A124247",
+    "title": "Accessibility Features",
+    "details": "Implement accessibility features for better usability.",
+    "due_date": "2025-10-14",
+    "status": "To Do"
+  },
+  {
+    "task_id": "127",
+    "userId": "A124247",
+    "title": "Internationalization",
+    "details": "Add support for multiple languages.",
+    "due_date": "2025-10-16",
+    "status": "To Do"
+  },
+  {
+    "task_id": "128",
+    "userId": "A124247",
+    "title": "Dark Mode Implementation",
+    "details": "Add dark mode toggle functionality.",
+    "due_date": "2025-10-17",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "129",
+    "userId": "A124248",
+    "title": "Cache Implementation",
+    "details": "Add caching layer for better performance.",
+    "due_date": "2025-10-19",
+    "status": "To Do"
+  },
+  {
+    "task_id": "130",
+    "userId": "A124248",
+    "title": "Rate Limiting",
+    "details": "Implement rate limiting for API endpoints.",
+    "due_date": "2025-10-21",
+    "status": "To Do"
+  },
+  {
+    "task_id": "131",
+    "userId": "A124248",
+    "title": "Session Management",
+    "details": "Improve session handling and token refresh.",
+    "due_date": "2025-10-22",
+    "status": "To Do"
+  },
+  {
+    "task_id": "132",
+    "userId": "A124248",
+    "title": "Notification System",
+    "details": "Add notification system for task reminders.",
+    "due_date": "2025-10-23",
+    "status": "To Do"
+  },
+  {
+    "task_id": "133",
+    "userId": "A124248",
+    "title": "Export Functionality",
+    "details": "Allow users to export their tasks to CSV/PDF.",
+    "due_date": "2025-10-24",
+    "status": "To Do"
+  },
+  {
+    "task_id": "134",
+    "userId": "A124249",
+    "title": "Task Categories",
+    "details": "Add category system for better task organization.",
+    "due_date": "2025-10-26",
+    "status": "To Do"
+  },
+  {
+    "task_id": "135",
+    "userId": "A124249",
+    "title": "Priority Levels",
+    "details": "Implement priority levels for tasks (High, Medium, Low).",
+    "due_date": "2025-10-27",
+    "status": "To Do"
+  },
+  {
+    "task_id": "136",
+    "userId": "A124249",
+    "title": "Task Dependencies",
+    "details": "Add ability to set task dependencies.",
+    "due_date": "2025-10-28",
+    "status": "To Do"
+  },
+  {
+    "task_id": "137",
+    "userId": "A124249",
+    "title": "Recurring Tasks",
+    "details": "Implement recurring task functionality.",
+    "due_date": "2025-10-29",
+    "status": "To Do"
+  },
+  {
+    "task_id": "138",
+    "userId": "A124249",
+    "title": "Time Tracking",
+    "details": "Add time tracking for task completion.",
+    "due_date": "2025-10-30",
+    "status": "To Do"
+  },
+  {
+    "task_id": "139",
+    "userId": "A124249",
+    "title": "Reports Dashboard",
+    "details": "Create dashboard with task completion reports.",
+    "due_date": "2025-10-31",
+    "status": "To Do"
+  },
+  {
+    "task_id": "140",
+    "userId": "A124249",
+    "title": "Team Collaboration",
+    "details": "Add basic team collaboration features.",
+    "due_date": "2025-11-01",
+    "status": "To Do"
+  },
+  {
+    "task_id": "141",
+    "userId": "A124249",
+    "title": "File Attachments",
+    "details": "Allow file attachments to tasks.",
+    "due_date": "2025-11-02",
+    "status": "To Do"
+  },
+  {
+    "task_id": "142",
+    "userId": "A124249",
+    "title": "Task Comments",
+    "details": "Add commenting system for tasks.",
+    "due_date": "2025-11-03",
+    "status": "To Do"
+  },
+  {
+    "task_id": "143",
+    "userId": "A124249",
+    "title": "Advanced Search",
+    "details": "Implement advanced search with filters.",
+    "due_date": "2025-11-04",
+    "status": "To Do"
+  },
+  {
+    "task_id": "144",
+    "userId": "A124249",
+    "title": "Task Templates",
+    "details": "Create reusable task templates.",
+    "due_date": "2025-11-05",
+    "status": "To Do"
+  },
+  {
+    "task_id": "145",
+    "userId": "A124249",
+    "title": "Calendar Integration",
+    "details": "Integrate with calendar applications.",
+    "due_date": "2025-11-06",
+    "status": "To Do"
+  },
+  {
+    "task_id": "146",
+    "userId": "A124249",
+    "title": "Email Notifications",
+    "details": "Send email notifications for important updates.",
+    "due_date": "2025-11-07",
+    "status": "To Do"
+  },
+  {
+    "task_id": "147",
+    "userId": "A124249",
+    "title": "Bulk Operations",
+    "details": "Add bulk edit and delete operations.",
+    "due_date": "2025-11-08",
+    "status": "To Do"
+  },
+  {
+    "task_id": "148",
+    "userId": "A124249",
+    "title": "Keyboard Shortcuts",
+    "details": "Implement keyboard shortcuts for power users.",
+    "due_date": "2025-11-09",
+    "status": "To Do"
+  },
+  {
+    "task_id": "149",
+    "userId": "A124249",
+    "title": "Data Migration Tools",
+    "details": "Create tools for data import/export.",
+    "due_date": "2025-11-10",
+    "status": "To Do"
+  },
+  {
+    "task_id": "150",
+    "userId": "A124249",
+    "title": "Custom Fields",
+    "details": "Allow users to add custom fields to tasks.",
+    "due_date": "2025-11-11",
+    "status": "To Do"
+  },
+  {
+    "task_id": "151",
+    "userId": "A124249",
+    "title": "Workflow Automation",
+    "details": "Add basic workflow automation features.",
+    "due_date": "2025-11-12",
+    "status": "To Do"
+  },
+  {
+    "task_id": "152",
+    "userId": "A124249",
+    "title": "API Rate Monitoring",
+    "details": "Monitor API usage and performance.",
+    "due_date": "2025-11-13",
+    "status": "To Do"
+  },
+  {
+    "task_id": "153",
+    "userId": "A124249",
+    "title": "Data Backup Automation",
+    "details": "Automate regular data backups.",
+    "due_date": "2025-11-14",
+    "status": "To Do"
+  },
+  {
+    "task_id": "154",
+    "userId": "A124249",
+    "title": "User Preferences",
+    "details": "Add user preference settings.",
+    "due_date": "2025-11-15",
+    "status": "To Do"
+  },
+  {
+    "task_id": "155",
+    "userId": "A124249",
+    "title": "Theme Customization",
+    "details": "Allow users to customize color themes.",
+    "due_date": "2025-11-16",
+    "status": "To Do"
+  },
+  {
+    "task_id": "156",
+    "userId": "A124249",
+    "title": "Performance Metrics",
+    "details": "Track and display performance metrics.",
+    "due_date": "2025-11-17",
+    "status": "To Do"
+  },
+  {
+    "task_id": "157",
+    "userId": "A124249",
+    "title": "Error Monitoring",
+    "details": "Implement comprehensive error monitoring.",
+    "due_date": "2025-11-18",
+    "status": "To Do"
+  },
+  {
+    "task_id": "158",
+    "userId": "A124249",
+    "title": "User Analytics",
+    "details": "Add user behavior analytics.",
+    "due_date": "2025-11-19",
+    "status": "To Do"
+  },
+  {
+    "task_id": "159",
+    "userId": "A124249",
+    "title": "Feature Flags",
+    "details": "Implement feature flag system.",
+    "due_date": "2025-11-20",
+    "status": "To Do"
+  },
+  {
+    "task_id": "160",
+    "userId": "A124249",
+    "title": "A/B Testing Framework",
+    "details": "Set up A/B testing capabilities.",
+    "due_date": "2025-11-21",
+    "status": "To Do"
+  },
+  {
+    "task_id": "161",
+    "userId": "A124249",
+    "title": "Progressive Web App",
+    "details": "Convert to Progressive Web App.",
+    "due_date": "2025-11-22",
+    "status": "To Do"
+  },
+  {
+    "task_id": "162",
+    "userId": "A124249",
+    "title": "Offline Support",
+    "details": "Add offline functionality support.",
+    "due_date": "2025-11-23",
+    "status": "To Do"
+  },
+  {
+    "task_id": "163",
+    "userId": "A124249",
+    "title": "Data Synchronization",
+    "details": "Implement data sync across devices.",
+    "due_date": "2025-11-24",
+    "status": "To Do"
+  },
+  {
+    "task_id": "164",
+    "userId": "A124249",
+    "title": "Conflict Resolution",
+    "details": "Handle data conflicts in multi-device scenarios.",
+    "due_date": "2025-11-25",
+    "status": "To Do"
+  },
+  {
+    "task_id": "165",
+    "userId": "A124249",
+    "title": "Real-time Updates",
+    "details": "Implement real-time updates using WebSockets.",
+    "due_date": "2025-11-26",
+    "status": "To Do"
+  },
+  {
+    "task_id": "166",
+    "userId": "A124249",
+    "title": "Multi-tenant Support",
+    "details": "Add support for multiple organizations.",
+    "due_date": "2025-11-27",
+    "status": "To Do"
+  },
+  {
+    "task_id": "167",
+    "userId": "A124249",
+    "title": "Role-based Access",
+    "details": "Implement role-based access control.",
+    "due_date": "2025-11-28",
+    "status": "To Do"
+  },
+  {
+    "task_id": "168",
+    "userId": "A124249",
+    "title": "Audit Trail",
+    "details": "Add comprehensive audit logging.",
+    "due_date": "2025-11-29",
+    "status": "To Do"
+  },
+  {
+    "task_id": "169",
+    "userId": "A124249",
+    "title": "Data Encryption",
+    "details": "Implement end-to-end data encryption.",
+    "due_date": "2025-11-30",
+    "status": "To Do"
+  },
+  {
+    "task_id": "170",
+    "userId": "A124249",
+    "title": "Compliance Features",
+    "details": "Add features for regulatory compliance.",
+    "due_date": "2025-12-01",
+    "status": "To Do"
+  },
+  {
+    "task_id": "171",
+    "userId": "A124249",
+    "title": "Data Retention Policies",
+    "details": "Implement automated data retention policies.",
+    "due_date": "2025-12-02",
+    "status": "To Do"
+  },
+  {
+    "task_id": "172",
+    "userId": "A124249",
+    "title": "Performance Profiling",
+    "details": "Add performance profiling tools.",
+    "due_date": "2025-12-03",
+    "status": "To Do"
+  },
+  {
+    "task_id": "173",
+    "userId": "A124249",
+    "title": "Memory Optimization",
+    "details": "Optimize memory usage and prevent leaks.",
+    "due_date": "2025-12-04",
+    "status": "To Do"
+  },
+  {
+    "task_id": "174",
+    "userId": "A124249",
+    "title": "CPU Optimization",
+    "details": "Optimize CPU usage for better performance.",
+    "due_date": "2025-12-05",
+    "status": "To Do"
+  },
+  {
+    "task_id": "175",
+    "userId": "A124249",
+    "title": "Network Optimization",
+    "details": "Optimize network requests and data transfer.",
+    "due_date": "2025-12-06",
+    "status": "To Do"
+  },
+  {
+    "task_id": "176",
+    "userId": "A124249",
+    "title": "Database Optimization",
+    "details": "Optimize JSON file operations and queries.",
+    "due_date": "2025-12-07",
+    "status": "To Do"
+  },
+  {
+    "task_id": "177",
+    "userId": "A124249",
+    "title": "Code Splitting",
+    "details": "Implement code splitting for better load times.",
+    "due_date": "2025-12-08",
+    "status": "To Do"
+  },
+  {
+    "task_id": "178",
+    "userId": "A124249",
+    "title": "Lazy Loading",
+    "details": "Add lazy loading for components and data.",
+    "due_date": "2025-12-09",
+    "status": "To Do"
+  },
+  {
+    "task_id": "179",
+    "userId": "A124249",
+    "title": "Bundle Optimization",
+    "details": "Optimize JavaScript bundles for production.",
+    "due_date": "2025-12-10",
+    "status": "To Do"
+  },
+  {
+    "task_id": "180",
+    "userId": "A124249",
+    "title": "Asset Optimization",
+    "details": "Optimize images and static assets.",
+    "due_date": "2025-12-11",
+    "status": "To Do"
+  },
+  {
+    "task_id": "181",
+    "userId": "A124249",
+    "title": "CDN Integration",
+    "details": "Integrate with CDN for faster asset delivery.",
+    "due_date": "2025-12-12",
+    "status": "To Do"
+  },
+  {
+    "task_id": "182",
+    "userId": "A124249",
+    "title": "Compression Implementation",
+    "details": "Add gzip/brotli compression for responses.",
+    "due_date": "2025-12-13",
+    "status": "To Do"
+  },
+  {
+    "task_id": "183",
+    "userId": "A124249",
+    "title": "Service Worker",
+    "details": "Implement service worker for caching.",
+    "due_date": "2025-12-14",
+    "status": "To Do"
+  },
+  {
+    "task_id": "184",
+    "userId": "A124249",
+    "title": "Push Notifications",
+    "details": "Add push notification support.",
+    "due_date": "2025-12-15",
+    "status": "To Do"
+  },
+  {
+    "task_id": "185",
+    "userId": "A124249",
+    "title": "Background Sync",
+    "details": "Implement background synchronization.",
+    "due_date": "2025-12-16",
+    "status": "To Do"
+  },
+  {
+    "task_id": "186",
+    "userId": "A124249",
+    "title": "Web Workers",
+    "details": "Use web workers for heavy computations.",
+    "due_date": "2025-12-17",
+    "status": "To Do"
+  },
+  {
+    "task_id": "187",
+    "userId": "A124249",
+    "title": "IndexedDB Integration",
+    "details": "Implement IndexedDB for local storage.",
+    "due_date": "2025-12-18",
+    "status": "To Do"
+  },
+  {
+    "task_id": "188",
+    "userId": "A124249",
+    "title": "WebAssembly Integration",
+    "details": "Explore WebAssembly for performance-critical operations.",
+    "due_date": "2025-12-19",
+    "status": "To Do"
+  },
+  {
+    "task_id": "189",
+    "userId": "A124249",
+    "title": "Machine Learning Features",
+    "details": "Add ML-based task prioritization.",
+    "due_date": "2025-12-20",
+    "status": "To Do"
+  },
+  {
+    "task_id": "190",
+    "userId": "A124249",
+    "title": "Natural Language Processing",
+    "details": "Add NLP for smart task creation.",
+    "due_date": "2025-12-21",
+    "status": "To Do"
+  },
+  {
+    "task_id": "191",
+    "userId": "A124249",
+    "title": "Predictive Analytics",
+    "details": "Implement predictive analytics for task completion.",
+    "due_date": "2025-12-22",
+    "status": "To Do"
+  },
+  {
+    "task_id": "192",
+    "userId": "A124249",
+    "title": "Voice Commands",
+    "details": "Add voice command support for task management.",
+    "due_date": "2025-12-23",
+    "status": "To Do"
+  },
+  {
+    "task_id": "193",
+    "userId": "A124249",
+    "title": "Gesture Recognition",
+    "details": "Implement gesture-based interactions.",
+    "due_date": "2025-12-24",
+    "status": "To Do"
+  },
+  {
+    "task_id": "194",
+    "userId": "A124249",
+    "title": "AR/VR Support",
+    "details": "Explore AR/VR interfaces for task management.",
+    "due_date": "2025-12-25",
+    "status": "To Do"
+  },
+  {
+    "task_id": "195",
+    "userId": "A124249",
+    "title": "IoT Integration",
+    "details": "Integrate with IoT devices for smart reminders.",
+    "due_date": "2025-12-26",
+    "status": "To Do"
+  },
+  {
+    "task_id": "196",
+    "userId": "A124249",
+    "title": "Blockchain Integration",
+    "details": "Explore blockchain for task verification.",
+    "due_date": "2025-12-27",
+    "status": "To Do"
+  },
+  {
+    "task_id": "197",
+    "userId": "A124249",
+    "title": "API Gateway",
+    "details": "Implement API gateway for better management.",
+    "due_date": "2025-12-28",
+    "status": "To Do"
+  },
+  {
+    "task_id": "198",
+    "userId": "A124249",
+    "title": "Microservices Architecture",
+    "details": "Refactor to microservices architecture.",
+    "due_date": "2025-12-29",
+    "status": "To Do"
+  },
+  {
+    "task_id": "199",
+    "userId": "A124249",
+    "title": "Container Orchestration",
+    "details": "Set up Kubernetes orchestration.",
+    "due_date": "2025-12-30",
+    "status": "To Do"
+  },
+  {
+    "task_id": "200",
+    "userId": "A124249",
+    "title": "Final Testing and Launch",
+    "details": "Complete final testing and prepare for production launch.",
+    "due_date": "2025-12-31",
+    "status": "To Do"
+  },
+  {
+    "task_id": "201",
+    "userId": "A124250",
+    "title": "Basic Setup",
+    "details": "Initial project setup and configuration.",
+    "due_date": "2025-09-23",
+    "status": "Completed"
+  },
+  {
+    "task_id": "202",
+    "userId": "A124250",
+    "title": "Learn FastAPI",
+    "details": "Study FastAPI documentation and best practices.",
+    "due_date": "2025-09-26",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "203",
+    "userId": "A124250",
+    "title": "Learn Vue.js",
+    "details": "Study Vue.js 3 composition API and ecosystem.",
+    "due_date": "2025-09-28",
+    "status": "To Do"
+  },
+  {
+    "task_id": "204",
+    "userId": "A124250",
+    "title": "Create Hello World",
+    "details": "Create basic hello world application.",
+    "due_date": "2025-09-30",
+    "status": "To Do"
+  },
+  {
+    "task_id": "205",
+    "userId": "A124251",
+    "title": "Project Planning",
+    "details": "Plan the overall project structure and timeline.",
+    "due_date": "2025-09-25",
+    "status": "Completed"
+  },
+  {
+    "task_id": "206",
+    "userId": "A124251",
+    "title": "Technology Research",
+    "details": "Research best practices for FastAPI and Vue.js integration.",
+    "due_date": "2025-09-27",
+    "status": "In Progress"
+  },
+  {
+    "task_id": "207",
+    "userId": "A124251",
+    "title": "Prototype Development",
+    "details": "Create a working prototype of the task manager.",
+    "due_date": "2025-10-01",
+    "status": "To Do"
+  },
+  {
+    "task_id": "208",
+    "userId": "A124251",
+    "title": "User Testing",
+    "details": "Conduct user testing sessions for feedback.",
+    "due_date": "2025-10-05",
+    "status": "To Do"
+  },
+  {
+    "task_id": "209",
+    "userId": "A124251",
+    "title": "Refinement Phase",
+    "details": "Refine application based on user feedback.",
+    "due_date": "2025-10-08",
+    "status": "To Do"
+  },
+  {
+    "task_id": "210",
+    "userId": "A124251",
+    "title": "Production Deployment",
+    "details": "Deploy the application to production environment.",
+    "due_date": "2025-10-10",
+    "status": "To Do"
+  },
+  {
+    "task_id": "500",
+    "userId": "A124243",
+    "details": "This task is missing a title field.",
+    "due_date": "2025-10-15",
+    "status": "To Do"
+  },
+  {
+    "task_id": "501",
+    "userId": "A124244",
+    "title": "Task with Missing Status",
+    "details": "This task is missing the status field.",
+    "due_date": "2025-10-16"
+  },
+  {
+    "task_id": "502",
+    "userId": "A124245",
+    "title": "Task with Invalid Date Format 1",
+    "details": "This task has an invalid due date format.",
+    "due_date": "Tomorrow",
+    "status": "To Do"
+  },
+  {
+    "task_id": "503",
+    "userId": "A124246",
+    "title": "Task with Invalid Date Format 2",
+    "details": "This task has another invalid due date format.",
+    "due_date": "9/25/2025",
+    "status": "In Progress"
+  }
+]
