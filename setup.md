@@ -31,8 +31,9 @@ This guide will help you set up and run the complete Task Manager application wi
 
 5. Start the backend server:
    ```bash
-   python main.py
-   ```
+   ~~python main.py~~
+   python .\run_server.py
+```
 
 The backend will be available at `http://10.0.0.8:8000`
 
